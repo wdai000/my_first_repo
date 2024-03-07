@@ -1,7 +1,5 @@
 Hello friends!
 
-this class is super.
-
 
 this is another new line.
 
